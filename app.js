@@ -41,8 +41,23 @@ async function init() {
 
   // Reveal before first render so Leaflet measures a sized, visible container.
   $("app").hidden = false;
-  selectProduct(0);
+
+  // Deep link: #<cikkszám> selects that product on load, otherwise the first.
+  const fromHash = productIndexFromHash();
+  selectProduct(fromHash >= 0 ? fromHash : 0);
+  window.addEventListener("hashchange", () => {
+    const i = productIndexFromHash();
+    if (i >= 0 && i !== state.selected) selectProduct(i);
+  });
+
   if (map) map.invalidateSize();
+}
+
+// Resolve location.hash (#<cikkszám>) to a product index, or -1 if none match.
+function productIndexFromHash() {
+  const id = decodeURIComponent(location.hash.replace(/^#/, "")).trim();
+  if (!id) return -1;
+  return state.data.products.findIndex((p) => String(p.id) === id);
 }
 
 function showError(err) {
@@ -194,10 +209,20 @@ function filterProducts(q) {
 function selectProduct(i) {
   state.selected = i;
   document.querySelectorAll(".product-card").forEach((b) => {
-    b.classList.toggle("active", Number(b.dataset.i) === i);
+    const active = Number(b.dataset.i) === i;
+    b.classList.toggle("active", active);
+    // Bring the chosen card into view (e.g. when arriving via a deep link),
+    // without jumping if it is already visible.
+    if (active) b.scrollIntoView({ block: "nearest" });
   });
 
   const p = state.data.products[i];
+
+  // Keep the URL pointing at the selected product so it can be linked/bookmarked.
+  // replaceState (not location.hash =) avoids flooding history on every click.
+  const hash = "#" + encodeURIComponent(p.id);
+  if (location.hash !== hash) history.replaceState(null, "", hash);
+
   $("detail-name").textContent = productName(p);
 
   // Main picture + link to the product page on lidl.hu (both optional).
