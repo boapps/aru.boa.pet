@@ -225,7 +225,7 @@ function selectProduct(i) {
 
   $("detail-name").textContent = productName(p);
 
-  // Main picture + link to the product page on lidl.hu (both optional).
+  // Main picture + link to the product page on the retailer's site (both optional).
   const thumb = $("detail-thumb");
   const img = $("detail-img");
   if (p.image) {
@@ -242,7 +242,7 @@ function selectProduct(i) {
   else { link.hidden = true; }
 
   $("detail-sub").textContent = p.store_count
-    ? `${p.in_stock_count} áruházban kapható a ${p.store_count} vizsgáltból`
+    ? `${p.in_stock_count} / ${p.store_count} áruházban kapható`
     : "Ehhez a cikkszámhoz nincs elérhető készletadat.";
 
   // Status breakdown chips.
