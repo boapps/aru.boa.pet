@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lidl termék-elérhetőség</title>
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Lidl termék-elérhetőség</h1>
+      <p class="meta" id="meta">Betöltés…</p>
+    </div>
+  </header>
+
+  <main class="wrap layout" id="app" hidden>
+    <!-- Product picker -->
+    <section class="panel products" aria-label="Termékek">
+      <h2 class="panel-title">Termékek</h2>
+      <input type="search" id="product-search" class="product-search"
+             placeholder="Termék keresése név vagy cikkszám szerint…"
+             autocomplete="off" aria-label="Termék keresése">
+      <ul class="product-list" id="product-list"></ul>
+      <p class="empty" id="product-empty" hidden>Nincs a keresésnek megfelelő termék.</p>
+    </section>
+
+    <!-- Detail for the selected product -->
+    <section class="panel detail" id="detail" aria-live="polite">
+      <header class="detail-head">
+        <a class="detail-thumb" id="detail-thumb" target="_blank" rel="noopener" hidden>
+          <img id="detail-img" alt="" loading="lazy">
+        </a>
+        <div class="detail-head-text">
+          <h2 id="detail-name">—</h2>
+          <p class="detail-sub" id="detail-sub"></p>
+          <a class="detail-link" id="detail-link" target="_blank" rel="noopener" hidden>Megtekintés a lidl.hu-n →</a>
+          <div class="chips" id="detail-chips"></div>
+        </div>
+      </header>
+
+      <figure class="map-figure">
+        <div id="map" role="img" aria-label="Áruházak térképe"></div>
+        <figcaption id="map-cap">Az ország összes Lidl áruháza, a kiválasztott termék készlete szerint színezve. Húzd / görgesd a térképet a nagyításhoz.</figcaption>
+      </figure>
+
+      <div class="controls">
+        <input type="search" id="search" placeholder="Keresés város, irányítószám vagy cím szerint…"
+               autocomplete="off" aria-label="Keresés">
+        <div class="status-filters" id="status-filters"></div>
+      </div>
+
+      <ul class="store-list" id="store-list"></ul>
+      <p class="empty" id="store-empty" hidden>Nincs a szűrőnek megfelelő áruház.</p>
+    </section>
+  </main>
+
+  <div class="error" id="error" hidden></div>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>Adatforrás: Lidl Magyarország készletinformáció · az adatok az előző napi készletzárást tükrözik.</span>
+    </div>
+  </footer>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

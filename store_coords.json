@@ -1,0 +1,1770 @@
+[
+  {
+    "address": "Mederčská 4708 945 01 Komárno",
+    "street": "Mederčská 4708 945 01 Komárno",
+    "postcode": "",
+    "city": "",
+    "lat": 47.76379,
+    "lon": 18.12773
+  },
+  {
+    "address": "Csalogány utca 43 1027 Budapest",
+    "street": "Csalogány utca 43",
+    "postcode": "1027",
+    "city": "Budapest",
+    "lat": 47.50813,
+    "lon": 19.03156
+  },
+  {
+    "address": "Máriaremetei út 1 1028 Budapest",
+    "street": "Máriaremetei út 1",
+    "postcode": "1028",
+    "city": "Budapest",
+    "lat": 47.54506,
+    "lon": 18.96289
+  },
+  {
+    "address": "Huszti út 20 1033 Budapest",
+    "street": "Huszti út 20",
+    "postcode": "1033",
+    "city": "Budapest",
+    "lat": 47.55278,
+    "lon": 19.03975
+  },
+  {
+    "address": "Bécsi út 325-337 1037 Budapest",
+    "street": "Bécsi út 325-337",
+    "postcode": "1037",
+    "city": "Budapest",
+    "lat": 47.56073,
+    "lon": 19.0244
+  },
+  {
+    "address": "Szentendrei út 251-253 1039 Budapest",
+    "street": "Szentendrei út 251-253",
+    "postcode": "1039",
+    "city": "Budapest",
+    "lat": 47.58036,
+    "lon": 19.04784
+  },
+  {
+    "address": "Görgey Artúr út 14-20 1041 Budapest",
+    "street": "Görgey Artúr út 14-20",
+    "postcode": "1041",
+    "city": "Budapest",
+    "lat": 47.56525,
+    "lon": 19.09624
+  },
+  {
+    "address": "Megyeri út 53 1044 Budapest",
+    "street": "Megyeri út 53",
+    "postcode": "1044",
+    "city": "Budapest",
+    "lat": 47.58783,
+    "lon": 19.09898
+  },
+  {
+    "address": "Arany János utca 27-29 1051 Budapest",
+    "street": "Arany János utca 27-29",
+    "postcode": "1051",
+    "city": "Budapest",
+    "lat": 47.50237,
+    "lon": 19.05319
+  },
+  {
+    "address": "Ferenciek tere 2 1053 Budapest",
+    "street": "Ferenciek tere 2",
+    "postcode": "1053",
+    "city": "Budapest",
+    "lat": 47.49303,
+    "lon": 19.05567
+  },
+  {
+    "address": "Király utca 112 1061 Budapest",
+    "street": "Király utca 112",
+    "postcode": "1061",
+    "city": "Budapest",
+    "lat": 47.50705,
+    "lon": 19.07169
+  },
+  {
+    "address": "Bajcsy-Zsilinszky út 61 1065 Budapest",
+    "street": "Bajcsy-Zsilinszky út 61",
+    "postcode": "1065",
+    "city": "Budapest",
+    "lat": 47.50904,
+    "lon": 19.05526
+  },
+  {
+    "address": "Rákóczi út 48-50 1074 Budapest",
+    "street": "Rákóczi út 48-50",
+    "postcode": "1074",
+    "city": "Budapest",
+    "lat": 47.49748,
+    "lon": 19.07103
+  },
+  {
+    "address": "Leonardo da Vinci utca 23 1082 Budapest",
+    "street": "Leonardo da Vinci utca 23",
+    "postcode": "1082",
+    "city": "Budapest",
+    "lat": 47.48593,
+    "lon": 19.07732
+  },
+  {
+    "address": "Teleki tér 35123/10 HRSZ 1086 Budapest",
+    "street": "Teleki tér 35123/10 HRSZ",
+    "postcode": "1086",
+    "city": "Budapest",
+    "lat": 47.49302,
+    "lon": 19.08423
+  },
+  {
+    "address": "Hungária krt. 26 1087 Budapest",
+    "street": "Hungária krt. 26",
+    "postcode": "1087",
+    "city": "Budapest",
+    "lat": 47.49556,
+    "lon": 19.1081
+  },
+  {
+    "address": "Gubacsi út 34 1097 Budapest",
+    "street": "Gubacsi út 34",
+    "postcode": "1097",
+    "city": "Budapest",
+    "lat": 47.44477,
+    "lon": 19.09653
+  },
+  {
+    "address": "Lobogó utca 12 1098 Budapest",
+    "street": "Lobogó utca 12",
+    "postcode": "1098",
+    "city": "Budapest",
+    "lat": 47.46185,
+    "lon": 19.11464
+  },
+  {
+    "address": "Üllői út 112 1101 Budapest",
+    "street": "Üllői út 112",
+    "postcode": "1101",
+    "city": "Budapest",
+    "lat": 47.47306,
+    "lon": 19.10976
+  },
+  {
+    "address": "Sibrik Miklós út 30/B 1103 Budapest",
+    "street": "Sibrik Miklós út 30/B",
+    "postcode": "1103",
+    "city": "Budapest",
+    "lat": 47.46984,
+    "lon": 19.15586
+  },
+  {
+    "address": "Maglódi út 17 1106 Budapest",
+    "street": "Maglódi út 17",
+    "postcode": "1106",
+    "city": "Budapest",
+    "lat": 47.48654,
+    "lon": 19.15334
+  },
+  {
+    "address": "Bartók Béla út 47 1114 Budapest",
+    "street": "Bartók Béla út 47",
+    "postcode": "1114",
+    "city": "Budapest",
+    "lat": 47.47839,
+    "lon": 19.04858
+  },
+  {
+    "address": "Fehérvári út 211 1116 Budapest",
+    "street": "Fehérvári út 211",
+    "postcode": "1116",
+    "city": "Budapest",
+    "lat": 47.44621,
+    "lon": 19.03657
+  },
+  {
+    "address": "Budaörsi út 121 1118 Budapest",
+    "street": "Budaörsi út 121",
+    "postcode": "1118",
+    "city": "Budapest",
+    "lat": 47.46614,
+    "lon": 19.01457
+  },
+  {
+    "address": "Victor Hugo utca 11 1132 Budapest",
+    "street": "Victor Hugo utca 11",
+    "postcode": "1132",
+    "city": "Budapest",
+    "lat": 47.51775,
+    "lon": 19.05793
+  },
+  {
+    "address": "Béke utca 2 1135 Budapest",
+    "street": "Béke utca 2",
+    "postcode": "1135",
+    "city": "Budapest",
+    "lat": 47.53153,
+    "lon": 19.08057
+  },
+  {
+    "address": "Váci út 201 1138 Budapest",
+    "street": "Váci út 201",
+    "postcode": "1138",
+    "city": "Budapest",
+    "lat": 47.55903,
+    "lon": 19.07787
+  },
+  {
+    "address": "Nagy Lajos király útja 121-123 1141 Budapest",
+    "street": "Nagy Lajos király útja 121-123",
+    "postcode": "1141",
+    "city": "Budapest",
+    "lat": 47.51701,
+    "lon": 19.11683
+  },
+  {
+    "address": "Mogyoródi út 23-39 1149 Budapest",
+    "street": "Mogyoródi út 23-39",
+    "postcode": "1149",
+    "city": "Budapest",
+    "lat": 47.50686,
+    "lon": 19.11523
+  },
+  {
+    "address": "Külső Fóti út 1 1152 Budapest",
+    "street": "Külső Fóti út 1",
+    "postcode": "1152",
+    "city": "Budapest",
+    "lat": 47.56697,
+    "lon": 19.13276
+  },
+  {
+    "address": "Erdőkerülő utca 36 1156 Budapest",
+    "street": "Erdőkerülő utca 36",
+    "postcode": "1156",
+    "city": "Budapest",
+    "lat": 47.54121,
+    "lon": 19.15078
+  },
+  {
+    "address": "Madách utca 72 1158 Budapest",
+    "street": "Madách utca 72",
+    "postcode": "1158",
+    "city": "Budapest",
+    "lat": 47.53705,
+    "lon": 19.13846
+  },
+  {
+    "address": "János utca 196 1161 Budapest",
+    "street": "János utca 196",
+    "postcode": "1161",
+    "city": "Budapest",
+    "lat": 47.53469,
+    "lon": 19.16077
+  },
+  {
+    "address": "Alsómalom utca 8-10 1164 Budapest",
+    "street": "Alsómalom utca 8-10",
+    "postcode": "1164",
+    "city": "Budapest",
+    "lat": 47.52668,
+    "lon": 19.20617
+  },
+  {
+    "address": "Újszász utca 47/b 1165 Budapest",
+    "street": "Újszász utca 47/b",
+    "postcode": "1165",
+    "city": "Budapest",
+    "lat": 47.50565,
+    "lon": 19.20084
+  },
+  {
+    "address": "Pesti út 2 1173 Budapest",
+    "street": "Pesti út 2",
+    "postcode": "1173",
+    "city": "Budapest",
+    "lat": 47.48506,
+    "lon": 19.22504
+  },
+  {
+    "address": "Pesti út 237/H 1173 Budapest",
+    "street": "Pesti út 237/H",
+    "postcode": "1173",
+    "city": "Budapest",
+    "lat": 47.47292,
+    "lon": 19.27393
+  },
+  {
+    "address": "Üllői út 379-381 1181 Budapest",
+    "street": "Üllői út 379-381",
+    "postcode": "1181",
+    "city": "Budapest",
+    "lat": 47.44642,
+    "lon": 19.17058
+  },
+  {
+    "address": "Cziffra György utca 115 1182 Budapest",
+    "street": "Cziffra György utca 115",
+    "postcode": "1182",
+    "city": "Budapest",
+    "lat": 47.43441,
+    "lon": 19.20089
+  },
+  {
+    "address": "Margó Tivadar utca 83 1186 Budapest",
+    "street": "Margó Tivadar utca 83",
+    "postcode": "1186",
+    "city": "Budapest",
+    "lat": 47.43192,
+    "lon": 19.17402
+  },
+  {
+    "address": "Nagykőrösi út 34-38 1188 Budapest",
+    "street": "Nagykőrösi út 34-38",
+    "postcode": "1188",
+    "city": "Budapest",
+    "lat": 47.40697,
+    "lon": 19.18186
+  },
+  {
+    "address": "Báthory utca 6 1191 Budapest",
+    "street": "Báthory utca 6",
+    "postcode": "1191",
+    "city": "Budapest",
+    "lat": 47.45704,
+    "lon": 19.14462
+  },
+  {
+    "address": "Szalay utca 14 1191 Budapest",
+    "street": "Szalay utca 14",
+    "postcode": "1191",
+    "city": "Budapest",
+    "lat": 47.46179,
+    "lon": 19.13216
+  },
+  {
+    "address": "Ady Endre út 60 1215 Budapest",
+    "street": "Ady Endre út 60",
+    "postcode": "1215",
+    "city": "Budapest",
+    "lat": 47.43518,
+    "lon": 19.07517
+  },
+  {
+    "address": "Nagytétényi út 216 1225 Budapest",
+    "street": "Nagytétényi út 216",
+    "postcode": "1225",
+    "city": "Budapest",
+    "lat": 47.39976,
+    "lon": 19.00418
+  },
+  {
+    "address": "Ciklámen út 3 1237 Budapest",
+    "street": "Ciklámen út 3",
+    "postcode": "1237",
+    "city": "Budapest",
+    "lat": 47.41618,
+    "lon": 19.13102
+  },
+  {
+    "address": "Haraszti út 34 1239 Budapest",
+    "street": "Haraszti út 34",
+    "postcode": "1239",
+    "city": "Budapest",
+    "lat": 47.38596,
+    "lon": 19.1092
+  },
+  {
+    "address": "Dózsa György út 20 2000 Szentendre",
+    "street": "Dózsa György út 20",
+    "postcode": "2000",
+    "city": "Szentendre",
+    "lat": 47.65109,
+    "lon": 19.07169
+  },
+  {
+    "address": "József Attila utca 32 2013 Pomáz",
+    "street": "József Attila utca 32",
+    "postcode": "2013",
+    "city": "Pomáz",
+    "lat": 47.64274,
+    "lon": 19.0303
+  },
+  {
+    "address": "Balatoni út 73-75 2030 Érd",
+    "street": "Balatoni út 73-75",
+    "postcode": "2030",
+    "city": "Érd",
+    "lat": 47.3939,
+    "lon": 18.93641
+  },
+  {
+    "address": "Diósdi út 2-4 2030 Érd",
+    "street": "Diósdi út 2-4",
+    "postcode": "2030",
+    "city": "Érd",
+    "lat": 47.37939,
+    "lon": 18.92316
+  },
+  {
+    "address": "Károly király utca 145 2040 Budaörs",
+    "street": "Károly király utca 145",
+    "postcode": "2040",
+    "city": "Budaörs",
+    "lat": 47.45094,
+    "lon": 18.96106
+  },
+  {
+    "address": "Szent László utca 55 2060 Bicske",
+    "street": "Szent László utca 55",
+    "postcode": "2060",
+    "city": "Bicske",
+    "lat": 47.49959,
+    "lon": 18.63165
+  },
+  {
+    "address": "Terstyánszky Ödön utca 89 2083 Solymár",
+    "street": "Terstyánszky Ödön utca 89",
+    "postcode": "2083",
+    "city": "Solymár",
+    "lat": 47.59598,
+    "lon": 18.93031
+  },
+  {
+    "address": "Budai út 18 2085 Pilisvörösvár",
+    "street": "Budai út 18",
+    "postcode": "2085",
+    "city": "Pilisvörösvár",
+    "lat": 47.61372,
+    "lon": 18.92699
+  },
+  {
+    "address": "Kert utca 27-29 2092 Budakeszi",
+    "street": "Kert utca 27-29",
+    "postcode": "2092",
+    "city": "Budakeszi",
+    "lat": 47.50328,
+    "lon": 18.9219
+  },
+  {
+    "address": "Dózsa György út 3152/1 HRSZ 2096 Üröm",
+    "street": "Dózsa György út 3152/1 HRSZ",
+    "postcode": "2096",
+    "city": "Üröm",
+    "lat": 47.59069,
+    "lon": 19.01066
+  },
+  {
+    "address": "Ottó Ferenc utca 2-4 2100 Gödöllő",
+    "street": "Ottó Ferenc utca 2-4",
+    "postcode": "2100",
+    "city": "Gödöllő",
+    "lat": 47.61127,
+    "lon": 19.33748
+  },
+  {
+    "address": "Dózsa György út 1/B 2111 Szada",
+    "street": "Dózsa György út 1/B",
+    "postcode": "2111",
+    "city": "Szada",
+    "lat": 47.62403,
+    "lon": 19.32478
+  },
+  {
+    "address": "Budapesti utca 1 2112 Veresegyház",
+    "street": "Budapesti utca 1",
+    "postcode": "2112",
+    "city": "Veresegyház",
+    "lat": 47.6586,
+    "lon": 19.26899
+  },
+  {
+    "address": "Szadai út 7 2112 Veresegyház",
+    "street": "Szadai út 7",
+    "postcode": "2112",
+    "city": "Veresegyház",
+    "lat": 47.64866,
+    "lon": 19.29255
+  },
+  {
+    "address": "Berek utca 2 2120 Dunakeszi",
+    "street": "Berek utca 2",
+    "postcode": "2120",
+    "city": "Dunakeszi",
+    "lat": 47.62312,
+    "lon": 19.12346
+  },
+  {
+    "address": "Szabadság út 60 2143 Kistarcsa",
+    "street": "Szabadság út 60",
+    "postcode": "2143",
+    "city": "Kistarcsa",
+    "lat": 47.54961,
+    "lon": 19.26718
+  },
+  {
+    "address": "Keleti Márton utca 7. 2151 Fót",
+    "street": "Keleti Márton utca 7.",
+    "postcode": "2151",
+    "city": "Fót",
+    "lat": 47.61384,
+    "lon": 19.17697
+  },
+  {
+    "address": "Pesti út 14-16 2170 Aszód",
+    "street": "Pesti út 14-16",
+    "postcode": "2170",
+    "city": "Aszód",
+    "lat": 47.65108,
+    "lon": 19.47332
+  },
+  {
+    "address": "Gém utca 1 2200 Monor",
+    "street": "Gém utca 1",
+    "postcode": "2200",
+    "city": "Monor",
+    "lat": 47.34736,
+    "lon": 19.43267
+  },
+  {
+    "address": "Fő út 244 2220 Vecsés",
+    "street": "Fő út 244",
+    "postcode": "2220",
+    "city": "Vecsés",
+    "lat": 47.41618,
+    "lon": 19.25349
+  },
+  {
+    "address": "Lacházi út 26 2300 Ráckeve",
+    "street": "Lacházi út 26",
+    "postcode": "2300",
+    "city": "Ráckeve",
+    "lat": 47.16419,
+    "lon": 18.95178
+  },
+  {
+    "address": "Csepeli út 16/A 2310 Szigetszentmiklós",
+    "street": "Csepeli út 16/A",
+    "postcode": "2310",
+    "city": "Szigetszentmiklós",
+    "lat": 47.35584,
+    "lon": 19.04637
+  },
+  {
+    "address": "Mű út 7 2315 Szigethalom",
+    "street": "Mű út 7",
+    "postcode": "2315",
+    "city": "Szigethalom",
+    "lat": 47.32947,
+    "lon": 19.00575
+  },
+  {
+    "address": "Némedi út 102/A 2330 Dunaharaszti",
+    "street": "Némedi út 102/A",
+    "postcode": "2330",
+    "city": "Dunaharaszti",
+    "lat": 47.34674,
+    "lon": 19.11881
+  },
+  {
+    "address": "Bartók Béla út 63 2370 Dabas",
+    "street": "Bartók Béla út 63",
+    "postcode": "2370",
+    "city": "Dabas",
+    "lat": 47.18778,
+    "lon": 19.32289
+  },
+  {
+    "address": "Magyar út 11 2400 Dunaújváros",
+    "street": "Magyar út 11",
+    "postcode": "2400",
+    "city": "Dunaújváros",
+    "lat": 46.97448,
+    "lon": 18.92757
+  },
+  {
+    "address": "Velinszky László utca 1 2400 Dunaújváros",
+    "street": "Velinszky László utca 1",
+    "postcode": "2400",
+    "city": "Dunaújváros",
+    "lat": 46.95905,
+    "lon": 18.94564
+  },
+  {
+    "address": "Akácfa utca 2 2484 Gárdony",
+    "street": "Akácfa utca 2",
+    "postcode": "2484",
+    "city": "Gárdony",
+    "lat": 47.19876,
+    "lon": 18.61113
+  },
+  {
+    "address": "Bánomi út 10 2500 Esztergom",
+    "street": "Bánomi út 10",
+    "postcode": "2500",
+    "city": "Esztergom",
+    "lat": 47.80327,
+    "lon": 18.75317
+  },
+  {
+    "address": "Dobogókői út 18200/51 HRSZ 2500 Esztergom",
+    "street": "Dobogókői út 18200/51 HRSZ",
+    "postcode": "2500",
+    "city": "Esztergom",
+    "lat": 47.77414,
+    "lon": 18.75485
+  },
+  {
+    "address": "Bányász körönd 1732/98 HRSZ 2510 Dorog",
+    "street": "Bányász körönd 1732/98 HRSZ",
+    "postcode": "2510",
+    "city": "Dorog",
+    "lat": 47.72889,
+    "lon": 18.72779
+  },
+  {
+    "address": "Balassagyarmati út 9-15 2600 Vác",
+    "street": "Balassagyarmati út 9-15",
+    "postcode": "2600",
+    "city": "Vác",
+    "lat": 47.79273,
+    "lon": 19.11577
+  },
+  {
+    "address": "Bolgár utca 1 2600 Vác",
+    "street": "Bolgár utca 1",
+    "postcode": "2600",
+    "city": "Vác",
+    "lat": 47.76211,
+    "lon": 19.14148
+  },
+  {
+    "address": "Naszály út 20 2600 Vác",
+    "street": "Naszály út 20",
+    "postcode": "2600",
+    "city": "Vác",
+    "lat": 47.78753,
+    "lon": 19.13241
+  },
+  {
+    "address": "Kóvári út 8 2660 Balassagyarmat",
+    "street": "Kóvári út 8",
+    "postcode": "2660",
+    "city": "Balassagyarmat",
+    "lat": 48.07319,
+    "lon": 19.28208
+  },
+  {
+    "address": "Törteli út 2 2700 Cegléd",
+    "street": "Törteli út 2",
+    "postcode": "2700",
+    "city": "Cegléd",
+    "lat": 47.1732,
+    "lon": 19.8159
+  },
+  {
+    "address": "Kecskeméti út 73 2750 Nagykőrös",
+    "street": "Kecskeméti út 73",
+    "postcode": "2750",
+    "city": "Nagykőrös",
+    "lat": 47.0206,
+    "lon": 19.77499
+  },
+  {
+    "address": "Dózsa György út 16 2760 Nagykáta",
+    "street": "Dózsa György út 16",
+    "postcode": "2760",
+    "city": "Nagykáta",
+    "lat": 47.41566,
+    "lon": 19.73933
+  },
+  {
+    "address": "Győri út 31 2800 Tatabánya",
+    "street": "Győri út 31",
+    "postcode": "2800",
+    "city": "Tatabánya",
+    "lat": 47.59284,
+    "lon": 18.3891
+  },
+  {
+    "address": "Szent Borbála út 31 2800 Tatabánya",
+    "street": "Szent Borbála út 31",
+    "postcode": "2800",
+    "city": "Tatabánya",
+    "lat": 47.55974,
+    "lon": 18.41245
+  },
+  {
+    "address": "Környei út 2 2840 Oroszlány",
+    "street": "Környei út 2",
+    "postcode": "2840",
+    "city": "Oroszlány",
+    "lat": 47.49414,
+    "lon": 18.32244
+  },
+  {
+    "address": "Piac tér 8 2890 Tata",
+    "street": "Piac tér 8",
+    "postcode": "2890",
+    "city": "Tata",
+    "lat": 47.6521,
+    "lon": 18.31761
+  },
+  {
+    "address": "Mártírok útja 80 2900 Komárom",
+    "street": "Mártírok útja 80",
+    "postcode": "2900",
+    "city": "Komárom",
+    "lat": 47.73815,
+    "lon": 18.13826
+  },
+  {
+    "address": "Radnóti tér 19 3000 Hatvan",
+    "street": "Radnóti tér 19",
+    "postcode": "3000",
+    "city": "Hatvan",
+    "lat": 47.66916,
+    "lon": 19.67326
+  },
+  {
+    "address": "Berekgát köz 2 3070 Bátonyterenye",
+    "street": "Berekgát köz 2",
+    "postcode": "3070",
+    "city": "Bátonyterenye",
+    "lat": 48.00427,
+    "lon": 19.82438
+  },
+  {
+    "address": "Csokonai út 23 3104 Salgótarján",
+    "street": "Csokonai út 23",
+    "postcode": "3104",
+    "city": "Salgótarján",
+    "lat": 48.07728,
+    "lon": 19.79042
+  },
+  {
+    "address": "Budai Nagy Antal tér 10 3200 Gyöngyös",
+    "street": "Budai Nagy Antal tér 10",
+    "postcode": "3200",
+    "city": "Gyöngyös",
+    "lat": 47.77668,
+    "lon": 19.92822
+  },
+  {
+    "address": "II. Rákóczi Ferenc utca 141 3300 Eger",
+    "street": "II. Rákóczi Ferenc utca 141",
+    "postcode": "3300",
+    "city": "Eger",
+    "lat": 47.92572,
+    "lon": 20.36782
+  },
+  {
+    "address": "Mátyás király út 144 3300 Eger",
+    "street": "Mátyás király út 144",
+    "postcode": "3300",
+    "city": "Eger",
+    "lat": 47.87038,
+    "lon": 20.38027
+  },
+  {
+    "address": "Kolozsvári utca 2/A-8/A 3360 Heves",
+    "street": "Kolozsvári utca 2/A-8/A",
+    "postcode": "3360",
+    "city": "Heves",
+    "lat": 47.59181,
+    "lon": 20.28058
+  },
+  {
+    "address": "Dohány utca 2/A 3400 Mezőkövesd",
+    "street": "Dohány utca 2/A",
+    "postcode": "3400",
+    "city": "Mezőkövesd",
+    "lat": 47.80032,
+    "lon": 20.56876
+  },
+  {
+    "address": "Pesti út 5 3516 Miskolc",
+    "street": "Pesti út 5",
+    "postcode": "3516",
+    "city": "Miskolc",
+    "lat": 48.05967,
+    "lon": 20.79627
+  },
+  {
+    "address": "József Attila utca 74 3527 Miskolc",
+    "street": "József Attila utca 74",
+    "postcode": "3527",
+    "city": "Miskolc",
+    "lat": 48.10615,
+    "lon": 20.82064
+  },
+  {
+    "address": "Kiss Ernő utca 13/B 3531 Miskolc",
+    "street": "Kiss Ernő utca 13/B",
+    "postcode": "3531",
+    "city": "Miskolc",
+    "lat": 48.09984,
+    "lon": 20.74543
+  },
+  {
+    "address": "Csermőkei út 207 3533 Miskolc",
+    "street": "Csermőkei út 207",
+    "postcode": "3533",
+    "city": "Miskolc",
+    "lat": 48.07737,
+    "lon": 20.77295
+  },
+  {
+    "address": "Lévay József utca 118 3580 Tiszaújváros",
+    "street": "Lévay József utca 118",
+    "postcode": "3580",
+    "city": "Tiszaújváros",
+    "lat": 47.93708,
+    "lon": 21.0279
+  },
+  {
+    "address": "Sárli út 2 3600 Ózd",
+    "street": "Sárli út 2",
+    "postcode": "3600",
+    "city": "Ózd",
+    "lat": 48.22067,
+    "lon": 20.2798
+  },
+  {
+    "address": "Mátyás király út 34/A 3700 Kazincbarcika",
+    "street": "Mátyás király út 34/A",
+    "postcode": "3700",
+    "city": "Kazincbarcika",
+    "lat": 48.24743,
+    "lon": 20.62312
+  },
+  {
+    "address": "Csalogány utca 58 3900 Szerencs",
+    "street": "Csalogány utca 58",
+    "postcode": "3900",
+    "city": "Szerencs",
+    "lat": 48.15465,
+    "lon": 21.19514
+  },
+  {
+    "address": "Esze Tamás utca 102 3980 Sátoraljaújhely",
+    "street": "Esze Tamás utca 102",
+    "postcode": "3980",
+    "city": "Sátoraljaújhely",
+    "lat": 48.388,
+    "lon": 21.65485
+  },
+  {
+    "address": "Balmazújvárosi út 7 4002 Debrecen",
+    "street": "Balmazújvárosi út 7",
+    "postcode": "4002",
+    "city": "Debrecen",
+    "lat": 47.54261,
+    "lon": 21.59573
+  },
+  {
+    "address": "Mikepércsi út 168 4030 Debrecen",
+    "street": "Mikepércsi út 168",
+    "postcode": "4030",
+    "city": "Debrecen",
+    "lat": 47.49475,
+    "lon": 21.63255
+  },
+  {
+    "address": "Derék utca 31 4031 Debrecen",
+    "street": "Derék utca 31",
+    "postcode": "4031",
+    "city": "Debrecen",
+    "lat": 47.52547,
+    "lon": 21.59808
+  },
+  {
+    "address": "Széchenyi utca 59 4031 Debrecen",
+    "street": "Széchenyi utca 59",
+    "postcode": "4031",
+    "city": "Debrecen",
+    "lat": 47.52517,
+    "lon": 21.61455
+  },
+  {
+    "address": "Faraktár utca 58 4034 Debrecen",
+    "street": "Faraktár utca 58",
+    "postcode": "4034",
+    "city": "Debrecen",
+    "lat": 47.52947,
+    "lon": 21.6511
+  },
+  {
+    "address": "Böszörményi út 1 4060 Balmazújváros",
+    "street": "Böszörményi út 1",
+    "postcode": "4060",
+    "city": "Balmazújváros",
+    "lat": 47.61575,
+    "lon": 21.34737
+  },
+  {
+    "address": "Dorogi út 108 4080 Hajdúnánás",
+    "street": "Dorogi út 108",
+    "postcode": "4080",
+    "city": "Hajdúnánás",
+    "lat": 47.84076,
+    "lon": 21.44537
+  },
+  {
+    "address": "Kossuth utca 98 4100 Berettyóújfalu",
+    "street": "Kossuth utca 98",
+    "postcode": "4100",
+    "city": "Berettyóújfalu",
+    "lat": 47.23299,
+    "lon": 21.53317
+  },
+  {
+    "address": "Rákóczi utca 20 4150 Püspökladány",
+    "street": "Rákóczi utca 20",
+    "postcode": "4150",
+    "city": "Püspökladány",
+    "lat": 47.32086,
+    "lon": 21.11988
+  },
+  {
+    "address": "Dózsa György út 62 4200 Hajdúszoboszló",
+    "street": "Dózsa György út 62",
+    "postcode": "4200",
+    "city": "Hajdúszoboszló",
+    "lat": 47.43565,
+    "lon": 21.37776
+  },
+  {
+    "address": "Bánság tér 10 4220 Hajdúböszörmény",
+    "street": "Bánság tér 10",
+    "postcode": "4220",
+    "city": "Hajdúböszörmény",
+    "lat": 47.66226,
+    "lon": 21.51019
+  },
+  {
+    "address": "Dr. Földy János utca 55 4242 Hajdúhadház",
+    "street": "Dr. Földy János utca 55",
+    "postcode": "4242",
+    "city": "Hajdúhadház",
+    "lat": 47.69069,
+    "lon": 21.67177
+  },
+  {
+    "address": "Debreceni út 14-24 4244 Újfehértó",
+    "street": "Debreceni út 14-24",
+    "postcode": "4244",
+    "city": "Újfehértó",
+    "lat": 47.79558,
+    "lon": 21.68231
+  },
+  {
+    "address": "Kiscsere utca 3 4251 Hajdúsámson",
+    "street": "Kiscsere utca 3",
+    "postcode": "4251",
+    "city": "Hajdúsámson",
+    "lat": 47.59025,
+    "lon": 21.73229
+  },
+  {
+    "address": "Debreceni út 106/K 4400 Nyíregyháza",
+    "street": "Debreceni út 106/K",
+    "postcode": "4400",
+    "city": "Nyíregyháza",
+    "lat": 47.93641,
+    "lon": 21.71912
+  },
+  {
+    "address": "Pazonyi út 37/A 4400 Nyíregyháza",
+    "street": "Pazonyi út 37/A",
+    "postcode": "4400",
+    "city": "Nyíregyháza",
+    "lat": 47.9685,
+    "lon": 21.73775
+  },
+  {
+    "address": "Attila utca 2/A 4600 Kisvárda",
+    "street": "Attila utca 2/A",
+    "postcode": "4600",
+    "city": "Kisvárda",
+    "lat": 48.2104,
+    "lon": 22.07579
+  },
+  {
+    "address": "Délibáb utca 4-6 5000 Szolnok",
+    "street": "Délibáb utca 4-6",
+    "postcode": "5000",
+    "city": "Szolnok",
+    "lat": 47.18374,
+    "lon": 20.18464
+  },
+  {
+    "address": "Széchenyi István körút 4/B 5000 Szolnok",
+    "street": "Széchenyi István körút 4/B",
+    "postcode": "5000",
+    "city": "Szolnok",
+    "lat": 47.19102,
+    "lon": 20.19356
+  },
+  {
+    "address": "Tószegi út 5 5000 Szolnok",
+    "street": "Tószegi út 5",
+    "postcode": "5000",
+    "city": "Szolnok",
+    "lat": 47.16035,
+    "lon": 20.17386
+  },
+  {
+    "address": "Nagykátai út 7/A 5100 Jászberény",
+    "street": "Nagykátai út 7/A",
+    "postcode": "5100",
+    "city": "Jászberény",
+    "lat": 47.4901,
+    "lon": 19.8899
+  },
+  {
+    "address": "Kossuth Lajos utca 102-110 5200 Törökszentmiklós",
+    "street": "Kossuth Lajos utca 102-110",
+    "postcode": "5200",
+    "city": "Törökszentmiklós",
+    "lat": 47.18043,
+    "lon": 20.417
+  },
+  {
+    "address": "Deák Ferenc utca 10 5310 Kisújszállás",
+    "street": "Deák Ferenc utca 10",
+    "postcode": "5310",
+    "city": "Kisújszállás",
+    "lat": 47.21722,
+    "lon": 20.74994
+  },
+  {
+    "address": "Húszöles út 25 5350 Tiszafüred",
+    "street": "Húszöles út 25",
+    "postcode": "5350",
+    "city": "Tiszafüred",
+    "lat": 47.62345,
+    "lon": 20.74741
+  },
+  {
+    "address": "Földvári út 21 5400 Mezőtúr",
+    "street": "Földvári út 21",
+    "postcode": "5400",
+    "city": "Mezőtúr",
+    "lat": 47.00213,
+    "lon": 20.61189
+  },
+  {
+    "address": "Földvári út 1 5435 Martfű",
+    "street": "Földvári út 1",
+    "postcode": "5435",
+    "city": "Martfű",
+    "lat": 47.01749,
+    "lon": 20.28978
+  },
+  {
+    "address": "Kossuth Lajos út 23 5440 Kunszentmárton",
+    "street": "Kossuth Lajos út 23",
+    "postcode": "5440",
+    "city": "Kunszentmárton",
+    "lat": 46.84238,
+    "lon": 20.29018
+  },
+  {
+    "address": "Fő út 81/2 5500 Gyomaendrőd",
+    "street": "Fő út 81/2",
+    "postcode": "5500",
+    "city": "Gyomaendrőd",
+    "lat": 46.9319,
+    "lon": 20.8011
+  },
+  {
+    "address": "Széchenyi utca 49-51 5520 Szeghalom",
+    "street": "Széchenyi utca 49-51",
+    "postcode": "5520",
+    "city": "Szeghalom",
+    "lat": 47.01602,
+    "lon": 21.16612
+  },
+  {
+    "address": "Csabai út 1/4 5540 Szarvas",
+    "street": "Csabai út 1/4",
+    "postcode": "5540",
+    "city": "Szarvas",
+    "lat": 46.85658,
+    "lon": 20.56658
+  },
+  {
+    "address": "Corvin utca 29-33 5600 Békéscsaba",
+    "street": "Corvin utca 29-33",
+    "postcode": "5600",
+    "city": "Békéscsaba",
+    "lat": 46.67093,
+    "lon": 21.10622
+  },
+  {
+    "address": "Szarvasi út 15-17 5600 Bekescsaba",
+    "street": "Szarvasi út 15-17",
+    "postcode": "5600",
+    "city": "Bekescsaba",
+    "lat": 46.6846,
+    "lon": 21.08606
+  },
+  {
+    "address": "Kossuth Lajos utca 31 5630 Békés",
+    "street": "Kossuth Lajos utca 31",
+    "postcode": "5630",
+    "city": "Békés",
+    "lat": 46.77263,
+    "lon": 21.12506
+  },
+  {
+    "address": "Szent István utca 67/B-69/1 5700 Gyula",
+    "street": "Szent István utca 67/B-69/1",
+    "postcode": "5700",
+    "city": "Gyula",
+    "lat": 46.6359,
+    "lon": 21.28122
+  },
+  {
+    "address": "Árpád utca 135 5800 Mezőkovácsháza",
+    "street": "Árpád utca 135",
+    "postcode": "5800",
+    "city": "Mezőkovácsháza",
+    "lat": 46.40593,
+    "lon": 20.91845
+  },
+  {
+    "address": "Hóvirág utca 1-5 5900 Orosháza",
+    "street": "Hóvirág utca 1-5",
+    "postcode": "5900",
+    "city": "Orosháza",
+    "lat": 46.55319,
+    "lon": 20.65404
+  },
+  {
+    "address": "Izsáki út 2 6000 Kecskemét",
+    "street": "Izsáki út 2",
+    "postcode": "6000",
+    "city": "Kecskemét",
+    "lat": 46.89995,
+    "lon": 19.67702
+  },
+  {
+    "address": "Nyíri út 38/e 6000 Kecskemét",
+    "street": "Nyíri út 38/e",
+    "postcode": "6000",
+    "city": "Kecskemét",
+    "lat": 46.91125,
+    "lon": 19.67251
+  },
+  {
+    "address": "Szolnoki út 18 6000 Kecskemét",
+    "street": "Szolnoki út 18",
+    "postcode": "6000",
+    "city": "Kecskemét",
+    "lat": 46.91283,
+    "lon": 19.71087
+  },
+  {
+    "address": "Majsai út 5/1 6100 Kiskunfélegyháza",
+    "street": "Majsai út 5/1",
+    "postcode": "6100",
+    "city": "Kiskunfélegyháza",
+    "lat": 46.70677,
+    "lon": 19.83778
+  },
+  {
+    "address": "Kossuth Lajos út 13 6200 Kiskőrös",
+    "street": "Kossuth Lajos út 13",
+    "postcode": "6200",
+    "city": "Kiskőrös",
+    "lat": 46.62332,
+    "lon": 19.28844
+  },
+  {
+    "address": "Kossuth Lajos utca 110 6230 Soltvadkert",
+    "street": "Kossuth Lajos utca 110",
+    "postcode": "6230",
+    "city": "Soltvadkert",
+    "lat": 46.58267,
+    "lon": 19.37232
+  },
+  {
+    "address": "Pataji utca 31 6300 Kalocsa",
+    "street": "Pataji utca 31",
+    "postcode": "6300",
+    "city": "Kalocsa",
+    "lat": 46.53908,
+    "lon": 18.98554
+  },
+  {
+    "address": "Kossuth Lajos utca 4 6320 Solt",
+    "street": "Kossuth Lajos utca 4",
+    "postcode": "6320",
+    "city": "Solt",
+    "lat": 46.80692,
+    "lon": 19.004
+  },
+  {
+    "address": "Széchenyi utca 1-3 6400 Kiskunhalas",
+    "street": "Széchenyi utca 1-3",
+    "postcode": "6400",
+    "city": "Kiskunhalas",
+    "lat": 46.43549,
+    "lon": 19.48544
+  },
+  {
+    "address": "Bajcsy-Zsilinszky utca 9 6500 Baja",
+    "street": "Bajcsy-Zsilinszky utca 9",
+    "postcode": "6500",
+    "city": "Baja",
+    "lat": 46.18249,
+    "lon": 18.93424
+  },
+  {
+    "address": "Ipartelepi út 2-6 6600 Szentes",
+    "street": "Ipartelepi út 2-6",
+    "postcode": "6600",
+    "city": "Szentes",
+    "lat": 46.6539,
+    "lon": 20.27606
+  },
+  {
+    "address": "Fő utca 59 6640 Csongrád",
+    "street": "Fő utca 59",
+    "postcode": "6640",
+    "city": "Csongrád",
+    "lat": 46.7111,
+    "lon": 20.13752
+  },
+  {
+    "address": "Makkosházi körút 21 6723 Szeged",
+    "street": "Makkosházi körút 21",
+    "postcode": "6723",
+    "city": "Szeged",
+    "lat": 46.27312,
+    "lon": 20.15422
+  },
+  {
+    "address": "Vásárhelyi Pál út 7 6724 Szeged",
+    "street": "Vásárhelyi Pál út 7",
+    "postcode": "6724",
+    "city": "Szeged",
+    "lat": 46.26108,
+    "lon": 20.12832
+  },
+  {
+    "address": "Szabadkai út 1/C 6725 Szeged",
+    "street": "Szabadkai út 1/C",
+    "postcode": "6725",
+    "city": "Szeged",
+    "lat": 46.24256,
+    "lon": 20.12669
+  },
+  {
+    "address": "Hódtó utca 2 6800 Hódmezővásárhely",
+    "street": "Hódtó utca 2",
+    "postcode": "6800",
+    "city": "Hódmezővásárhely",
+    "lat": 46.41118,
+    "lon": 20.3262
+  },
+  {
+    "address": "Szegedi utca 63 6900 Makó",
+    "street": "Szegedi utca 63",
+    "postcode": "6900",
+    "city": "Makó",
+    "lat": 46.21009,
+    "lon": 20.46222
+  },
+  {
+    "address": "Ady Endre utca 232-236 7000 Sárbogárd",
+    "street": "Ady Endre utca 232-236",
+    "postcode": "7000",
+    "city": "Sárbogárd",
+    "lat": 46.87788,
+    "lon": 18.62502
+  },
+  {
+    "address": "Tolnai út 70 7030 Paks",
+    "street": "Tolnai út 70",
+    "postcode": "7030",
+    "city": "Paks",
+    "lat": 46.61234,
+    "lon": 18.85079
+  },
+  {
+    "address": "Deák Ferenc utca 10/A 7090 Tamási",
+    "street": "Deák Ferenc utca 10/A",
+    "postcode": "7090",
+    "city": "Tamási",
+    "lat": 46.62888,
+    "lon": 18.28078
+  },
+  {
+    "address": "Arany János utca 4 7100 Szekszard",
+    "street": "Arany János utca 4",
+    "postcode": "7100",
+    "city": "Szekszard",
+    "lat": 46.34694,
+    "lon": 18.70332
+  },
+  {
+    "address": "Béri Balogh Ádám utca 94/B 7100 Szekszárd",
+    "street": "Béri Balogh Ádám utca 94/B",
+    "postcode": "7100",
+    "city": "Szekszárd",
+    "lat": 46.33426,
+    "lon": 18.70013
+  },
+  {
+    "address": "Deák Ferenc utca 10/A 7150 Bonyhád",
+    "street": "Deák Ferenc utca 10/A",
+    "postcode": "7150",
+    "city": "Bonyhád",
+    "lat": 46.29579,
+    "lon": 18.54028
+  },
+  {
+    "address": "Kórház utca 55 7200 Dombóvár",
+    "street": "Kórház utca 55",
+    "postcode": "7200",
+    "city": "Dombóvár",
+    "lat": 46.38758,
+    "lon": 18.14377
+  },
+  {
+    "address": "Tröszt utca 1 7300 Komló",
+    "street": "Tröszt utca 1",
+    "postcode": "7300",
+    "city": "Komló",
+    "lat": 46.19052,
+    "lon": 18.25874
+  },
+  {
+    "address": "Bereczk Sándor utca 2 7400 Kaposvár",
+    "street": "Bereczk Sándor utca 2",
+    "postcode": "7400",
+    "city": "Kaposvár",
+    "lat": 46.35794,
+    "lon": 17.78322
+  },
+  {
+    "address": "Előd vezér utca 3 7400 Kaposvár",
+    "street": "Előd vezér utca 3",
+    "postcode": "7400",
+    "city": "Kaposvár",
+    "lat": 46.36656,
+    "lon": 17.80861
+  },
+  {
+    "address": "Füredi út 97 7400 Kaposvár",
+    "street": "Füredi út 97",
+    "postcode": "7400",
+    "city": "Kaposvár",
+    "lat": 46.37805,
+    "lon": 17.78118
+  },
+  {
+    "address": "Árpád utca 49 7500 Nagyatád",
+    "street": "Árpád utca 49",
+    "postcode": "7500",
+    "city": "Nagyatád",
+    "lat": 46.22454,
+    "lon": 17.37023
+  },
+  {
+    "address": "Erkel Ferenc utca 2 7570 Barcs",
+    "street": "Erkel Ferenc utca 2",
+    "postcode": "7570",
+    "city": "Barcs",
+    "lat": 45.96234,
+    "lon": 17.46667
+  },
+  {
+    "address": "Puskin tér 22 7627 Pécs",
+    "street": "Puskin tér 22",
+    "postcode": "7627",
+    "city": "Pécs",
+    "lat": 46.08428,
+    "lon": 18.26314
+  },
+  {
+    "address": "Lahti utca 45 7632 Pécs",
+    "street": "Lahti utca 45",
+    "postcode": "7632",
+    "city": "Pécs",
+    "lat": 46.04149,
+    "lon": 18.2124
+  },
+  {
+    "address": "Málomi út 3 7632 Pecs",
+    "street": "Málomi út 3",
+    "postcode": "7632",
+    "city": "Pecs",
+    "lat": 46.04746,
+    "lon": 18.22602
+  },
+  {
+    "address": "Siklósi út 52/A 7632 Pécs",
+    "street": "Siklósi út 52/A",
+    "postcode": "7632",
+    "city": "Pécs",
+    "lat": 46.05657,
+    "lon": 18.23072
+  },
+  {
+    "address": "Lázár Vilmos utca 10 7633 Pécs",
+    "street": "Lázár Vilmos utca 10",
+    "postcode": "7633",
+    "city": "Pécs",
+    "lat": 46.07118,
+    "lon": 18.20589
+  },
+  {
+    "address": "Pécsi út 41 7700 Mohács",
+    "street": "Pécsi út 41",
+    "postcode": "7700",
+    "city": "Mohács",
+    "lat": 45.99681,
+    "lon": 18.66865
+  },
+  {
+    "address": "Szent István tér 2 7800 Siklós",
+    "street": "Szent István tér 2",
+    "postcode": "7800",
+    "city": "Siklós",
+    "lat": 45.85518,
+    "lon": 18.29389
+  },
+  {
+    "address": "Almás patak utca 5 7900 Szigetvár",
+    "street": "Almás patak utca 5",
+    "postcode": "7900",
+    "city": "Szigetvár",
+    "lat": 46.045,
+    "lon": 17.79727
+  },
+  {
+    "address": "Balatoni út 21 8000 Székesfehérvár",
+    "street": "Balatoni út 21",
+    "postcode": "8000",
+    "city": "Székesfehérvár",
+    "lat": 47.18385,
+    "lon": 18.40673
+  },
+  {
+    "address": "Farkasvermi köz 1 8000 Székesfehérvár",
+    "street": "Farkasvermi köz 1",
+    "postcode": "8000",
+    "city": "Székesfehérvár",
+    "lat": 47.20445,
+    "lon": 18.38531
+  },
+  {
+    "address": "Mártírok utca 11 8000 Székesfehérvár",
+    "street": "Mártírok utca 11",
+    "postcode": "8000",
+    "city": "Székesfehérvár",
+    "lat": 47.18975,
+    "lon": 18.44655
+  },
+  {
+    "address": "Pozsonyi út 4 8000 Szekesfehervar",
+    "street": "Pozsonyi út 4",
+    "postcode": "8000",
+    "city": "Szekesfehervar",
+    "lat": 47.20486,
+    "lon": 18.44115
+  },
+  {
+    "address": "Akai út 8 8060 Mór",
+    "street": "Akai út 8",
+    "postcode": "8060",
+    "city": "Mór",
+    "lat": 47.3758,
+    "lon": 18.18933
+  },
+  {
+    "address": "Hétvezér utca 3 8100 Várpalota",
+    "street": "Hétvezér utca 3",
+    "postcode": "8100",
+    "city": "Várpalota",
+    "lat": 47.20072,
+    "lon": 18.14776
+  },
+  {
+    "address": "Rákóczi utca 5 8130 Enying",
+    "street": "Rákóczi utca 5",
+    "postcode": "8130",
+    "city": "Enying",
+    "lat": 46.92545,
+    "lon": 18.24869
+  },
+  {
+    "address": "Vízmű utca 1 8175 Balatonfűzfő",
+    "street": "Vízmű utca 1",
+    "postcode": "8175",
+    "city": "Balatonfűzfő",
+    "lat": 47.06896,
+    "lon": 18.03259
+  },
+  {
+    "address": "Cholnoky Jenő utca 29/1 8200 Veszprém",
+    "street": "Cholnoky Jenő utca 29/1",
+    "postcode": "8200",
+    "city": "Veszprém",
+    "lat": 47.08726,
+    "lon": 17.92222
+  },
+  {
+    "address": "Észak-keleti útgyűrű 2 8200 Veszprém",
+    "street": "Észak-keleti útgyűrű 2",
+    "postcode": "8200",
+    "city": "Veszprém",
+    "lat": 47.11114,
+    "lon": 17.92613
+  },
+  {
+    "address": "Veszprémi út 1 8300 Tapolca",
+    "street": "Veszprémi út 1",
+    "postcode": "8300",
+    "city": "Tapolca",
+    "lat": 46.88042,
+    "lon": 17.45224
+  },
+  {
+    "address": "Fő út 1530/57 HRSZ 8330 Sümeg",
+    "street": "Fő út 1530/57 HRSZ",
+    "postcode": "8330",
+    "city": "Sümeg",
+    "lat": 46.9853,
+    "lon": 17.28421
+  },
+  {
+    "address": "Sopron utca 43 8360 Keszthely",
+    "street": "Sopron utca 43",
+    "postcode": "8360",
+    "city": "Keszthely",
+    "lat": 46.77552,
+    "lon": 17.24168
+  },
+  {
+    "address": "Tapolcai út 45/A 8360 Keszthely",
+    "street": "Tapolcai út 45/A",
+    "postcode": "8360",
+    "city": "Keszthely",
+    "lat": 46.77334,
+    "lon": 17.27197
+  },
+  {
+    "address": "Hársfa utca 1/A 8400 Ajka",
+    "street": "Hársfa utca 1/A",
+    "postcode": "8400",
+    "city": "Ajka",
+    "lat": 47.11558,
+    "lon": 17.551
+  },
+  {
+    "address": "Jókai Mór utca 57 8500 Pápa",
+    "street": "Jókai Mór utca 57",
+    "postcode": "8500",
+    "city": "Pápa",
+    "lat": 47.32316,
+    "lon": 17.47493
+  },
+  {
+    "address": "Zamárdi utca 1-2 8600 Siófok",
+    "street": "Zamárdi utca 1-2",
+    "postcode": "8600",
+    "city": "Siófok",
+    "lat": 46.90012,
+    "lon": 18.02826
+  },
+  {
+    "address": "Rákóczi út 307 8638 Balatonlelle",
+    "street": "Rákóczi út 307",
+    "postcode": "8638",
+    "city": "Balatonlelle",
+    "lat": 46.78371,
+    "lon": 17.68244
+  },
+  {
+    "address": "Ady Endre utca 57-59 8640 Fonyód",
+    "street": "Ady Endre utca 57-59",
+    "postcode": "8640",
+    "city": "Fonyód",
+    "lat": 46.75114,
+    "lon": 17.56922
+  },
+  {
+    "address": "Rákóczi utca 42-50 8700 Marcali",
+    "street": "Rákóczi utca 42-50",
+    "postcode": "8700",
+    "city": "Marcali",
+    "lat": 46.58459,
+    "lon": 17.41091
+  },
+  {
+    "address": "Balatoni utca 41 8800 Nagykanizsa",
+    "street": "Balatoni utca 41",
+    "postcode": "8800",
+    "city": "Nagykanizsa",
+    "lat": 46.46092,
+    "lon": 17.00693
+  },
+  {
+    "address": "Széchenyi tér 12-14 8840 Csurgó",
+    "street": "Széchenyi tér 12-14",
+    "postcode": "8840",
+    "city": "Csurgó",
+    "lat": 46.25532,
+    "lon": 17.09921
+  },
+  {
+    "address": "Platán sor 6/A 8900 Zalaegerszeg",
+    "street": "Platán sor 6/A",
+    "postcode": "8900",
+    "city": "Zalaegerszeg",
+    "lat": 46.84035,
+    "lon": 16.83401
+  },
+  {
+    "address": "Átkötő utca 3 8900 Zalaegerszeg",
+    "street": "Átkötő utca 3",
+    "postcode": "8900",
+    "city": "Zalaegerszeg",
+    "lat": 46.8459,
+    "lon": 16.86397
+  },
+  {
+    "address": "Tihanyi Árpád út 9 9023 Győr",
+    "street": "Tihanyi Árpád út 9",
+    "postcode": "9023",
+    "city": "Győr",
+    "lat": 47.68377,
+    "lon": 17.64334
+  },
+  {
+    "address": "Mécs László utca 1/A 9024 Győr",
+    "street": "Mécs László utca 1/A",
+    "postcode": "9024",
+    "city": "Győr",
+    "lat": 47.66294,
+    "lon": 17.63583
+  },
+  {
+    "address": "Kossuth Lajos utca 123 9025 Győr",
+    "street": "Kossuth Lajos utca 123",
+    "postcode": "9025",
+    "city": "Győr",
+    "lat": 47.6784,
+    "lon": 17.61443
+  },
+  {
+    "address": "Szeszgyár utca 6 9027 Győr",
+    "street": "Szeszgyár utca 6",
+    "postcode": "9027",
+    "city": "Győr",
+    "lat": 47.689,
+    "lon": 17.65244
+  },
+  {
+    "address": "Jereváni út 42 9028 Győr",
+    "street": "Jereváni út 42",
+    "postcode": "9028",
+    "city": "Győr",
+    "lat": 47.66768,
+    "lon": 17.65624
+  },
+  {
+    "address": "Királyhidai utca 49 9200 Mosonmagyaróvár",
+    "street": "Királyhidai utca 49",
+    "postcode": "9200",
+    "city": "Mosonmagyaróvár",
+    "lat": 47.87669,
+    "lon": 17.26232
+  },
+  {
+    "address": "Soproni út 66/C 9300 Csorna",
+    "street": "Soproni út 66/C",
+    "postcode": "9300",
+    "city": "Csorna",
+    "lat": 47.61027,
+    "lon": 17.24063
+  },
+  {
+    "address": "Győri út 60 9330 Kapuvár",
+    "street": "Győri út 60",
+    "postcode": "9330",
+    "city": "Kapuvár",
+    "lat": 47.592,
+    "lon": 17.03938
+  },
+  {
+    "address": "Bánfalvi út 12 9400 Sopron",
+    "street": "Bánfalvi út 12",
+    "postcode": "9400",
+    "city": "Sopron",
+    "lat": 47.68538,
+    "lon": 16.56848
+  },
+  {
+    "address": "Lófuttató út 4 9400 Sopron",
+    "street": "Lófuttató út 4",
+    "postcode": "9400",
+    "city": "Sopron",
+    "lat": 47.674,
+    "lon": 16.60143
+  },
+  {
+    "address": "Rákóczi utca 12 9600 Sárvár",
+    "street": "Rákóczi utca 12",
+    "postcode": "9600",
+    "city": "Sárvár",
+    "lat": 47.25025,
+    "lon": 16.94171
+  },
+  {
+    "address": "Kenyérvíz utca 2 9700 Szombathely",
+    "street": "Kenyérvíz utca 2",
+    "postcode": "9700",
+    "city": "Szombathely",
+    "lat": 47.22418,
+    "lon": 16.63221
+  },
+  {
+    "address": "Verseny utca 30 9700 Szombathely",
+    "street": "Verseny utca 30",
+    "postcode": "9700",
+    "city": "Szombathely",
+    "lat": 47.25349,
+    "lon": 16.61867
+  },
+  {
+    "address": "Zanati út 42 9700 Szombathely",
+    "street": "Zanati út 42",
+    "postcode": "9700",
+    "city": "Szombathely",
+    "lat": 47.23865,
+    "lon": 16.64467
+  },
+  {
+    "address": "Cáki út 2 9730 Kőszeg",
+    "street": "Cáki út 2",
+    "postcode": "9730",
+    "city": "Kőszeg",
+    "lat": 47.37898,
+    "lon": 16.55703
+  },
+  {
+    "address": "Dr. Remetei Filep utca 2 9900 Körmend",
+    "street": "Dr. Remetei Filep utca 2",
+    "postcode": "9900",
+    "city": "Körmend",
+    "lat": 47.00903,
+    "lon": 16.5932
+  }
+]
