@@ -13,6 +13,7 @@ const state = {
   selected: 0,
   search: "",
   hidden: new Set(), // hidden color classes
+  browsing: false,  // mobile: is the product list expanded?
 };
 
 const $ = (id) => document.getElementById(id);
@@ -189,6 +190,27 @@ function wireControls() {
   $("product-search").addEventListener("input", (e) => {
     filterProducts(e.target.value.trim().toLowerCase());
   });
+  $("product-toggle").addEventListener("click", () => {
+    setBrowsing(!state.browsing);
+  });
+}
+
+// On narrow screens the product list stacks above the detail, so keep it
+// collapsed once a product is chosen and surface a toggle to reopen it.
+// (On desktop the list sits in its own column and is always shown.)
+function setBrowsing(on) {
+  state.browsing = on;
+  const app = $("app");
+  app.classList.toggle("browsing", on);
+
+  const p = state.data.products[state.selected];
+  const btn = $("product-toggle");
+  btn.setAttribute("aria-expanded", String(on));
+  btn.textContent = on
+    ? "Lista bezárása ▴"
+    : `${productName(p)} — másik termék ▾`;
+
+  if (on) $("product-search").focus();
 }
 
 // Show/hide product cards matching the query (by name or article number).
@@ -208,6 +230,9 @@ function filterProducts(q) {
 
 function selectProduct(i) {
   state.selected = i;
+  $("app").classList.add("has-selection");
+  $("product-toggle").hidden = false;
+  setBrowsing(false); // collapse the list (mobile) now that a product is chosen
   document.querySelectorAll(".product-card").forEach((b) => {
     const active = Number(b.dataset.i) === i;
     b.classList.toggle("active", active);

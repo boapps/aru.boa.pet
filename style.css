@@ -63,6 +63,14 @@ body {
 }
 @media (max-width: 860px) {
   .layout { grid-template-columns: 1fr; }
+
+  /* Stacked layout: once a product is selected, collapse the list behind a
+     toggle so it doesn't push the detail (map, stores) far down the page. */
+  #app.has-selection .product-toggle { display: block; }
+  #app.has-selection:not(.browsing) .product-search,
+  #app.has-selection:not(.browsing) .product-list,
+  #app.has-selection:not(.browsing) #product-empty { display: none; }
+  #app.has-selection.browsing .product-toggle { margin-bottom: 14px; }
 }
 
 .panel {
@@ -79,6 +87,22 @@ body {
   letter-spacing: .08em;
   color: var(--ink-soft);
 }
+
+/* Product list toggle (mobile only — see media query below) */
+.product-toggle {
+  display: none;
+  width: 100%;
+  text-align: left;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  font: inherit;
+  font-weight: 600;
+  color: var(--ink);
+  cursor: pointer;
+}
+.product-toggle:hover { border-color: #c7c4ed; }
 
 /* Product search */
 .product-search {
